@@ -4,6 +4,9 @@
 
 **节奏**：5 天/周 × 3 周 = 15 天。每天 1 个主 commit。
 
+> **本文件是高层路线**。具体可执行的任务卡（给 AI agent 的）在 [docs/tasks/](tasks/README.md)。
+> W1 任务卡已写完：[W1-D1](tasks/W1-D1.md) ~ [W1-D5](tasks/W1-D5.md)。W2/W3 待 W1 完成后再生成。
+
 ---
 
 ## W1 — 工程 + 玩家 + 武器
